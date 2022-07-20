@@ -3,6 +3,6 @@
 int main(void)
 {
     printf("============================================\n");
-    printf("hello world\n");
+    printf("hello ssh\n");
     printf("============================================\n");
 }
